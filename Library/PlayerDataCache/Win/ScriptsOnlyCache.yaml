@@ -164,7 +164,7 @@ ScriptsOnlyBuild:
     className: EnumerableTestState
   - hash:
       serializedVersion: 2
-      Hash: c7be8404a518457b848a1add4e576ccf
+      Hash: 5992bd059eb3ebd14a4bb0d93008f3d7
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: CameraScript
@@ -495,4 +495,4 @@ ScriptsOnlyBuild:
   platform: 5
   scenePathNames:
   - Assets/Scenes/Main.unity
-  playerPath: D:/Dev/Unity/2020.3.4f1/CGA/cga-2021/Executavel/cga-2021.exe
+  playerPath: D:/Dev/Unity/2020.3.4f1/CGA/cga-2021/Executavel/CornelBox.exe
